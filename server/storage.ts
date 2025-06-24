@@ -32,6 +32,7 @@ export class MemStorage implements IStorage {
     const task: Task = {
       ...insertTask,
       id,
+      description: insertTask.description || "",
       createdAt: new Date().toISOString(),
     };
     this.tasks.set(id, task);
