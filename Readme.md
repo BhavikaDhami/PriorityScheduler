@@ -89,8 +89,9 @@ This is a full-stack task scheduling application built with React, Express, and 
 - **Database**: Environment-based DATABASE_URL configuration
 
 📸 Screenshots
+
 ![image](https://github.com/user-attachments/assets/44d7f97f-8a40-486a-8e75-8d5587fc5bc5)
-![image](https://github.com/user-attachments/assets/44d7f97f-8a40-486a-8e75-8d5587fc5bc5)
+
 
 
 ## User Preferences
