@@ -157,7 +157,7 @@ export default function TaskList({ tasks, isLoading, selectedAlgorithm }: TaskLi
             <div className="space-y-3">
               {orderedTasks.map((task, index) => (
                 <div
-                  key={task.id}
+                  key={`${selectedAlgorithm}-${task.id}-${index}`}
                   className="flex items-center justify-between p-4 border border-gray-200 rounded-lg hover:shadow-sm transition-shadow"
                 >
                   <div className="flex items-center space-x-3">

@@ -88,14 +88,6 @@ This is a full-stack task scheduling application built with React, Express, and 
 - **Production**: Single Express server serving both API and static files
 - **Database**: Environment-based DATABASE_URL configuration
 
-### Replit Integration
-- **Modules**: Node.js 20, web development, PostgreSQL 16
-- **Deployment**: Autoscale deployment target with npm build/start scripts
-- **Development**: Hot reloading with file watching
-
-## Changelog
-- June 24, 2025. Initial setup
-
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
